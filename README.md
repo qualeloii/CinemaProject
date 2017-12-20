@@ -1,6 +1,6 @@
 # CinemaProject
 
-Programa em Java para venda de ingressos;
+*Programa em Java para venda de ingressos;
 
   Login (e-mail/senha);
   
