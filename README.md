@@ -3,8 +3,8 @@
 Programa em Java para venda de ingressos;
 
 function {
-  Login (e-mail/senha)
-  Cadastro de Usuário
+  Login (e-mail/senha);
+  Cadastro de Usuário;
   Editar dados (nome, e-mail, senha, apelido);
   Cadastro de cartão;
   Troca de foto de perfil;
